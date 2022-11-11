@@ -11,3 +11,5 @@ Una isla en el medio del océano, la isla tiene varias palmeras y  hay una parej
 ## Avance 3: Texturas
 
 ![Avance 3](Avances/avance2.png)
+
+Créditos por los personajes: https://assetstore.unity.com/packages/3d/characters/distant-lands-free-characters-178123#publisher
