@@ -1,5 +1,9 @@
 # ProyectoGraficas
 
+A01635930 Mauricio Xavier Garabito Ramirez
+
+A01283439 Miguel Angel Castro Martinez
+
 ## Avance 1: Descripcion
 
 Una isla en el medio del océano, la isla tiene varias palmeras y  hay una pareja acostada en la orilla de la playa. Lanchas y barcos pasan por la isla y se puede ver el sol y la luna moviéndose a través del firmamento. La escena será creada usando Unity.
