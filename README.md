@@ -1,5 +1,13 @@
 # ProyectoGraficas
 
-Aavance 2: Screenshot de la escena
+## Avance 1: Descripcion
 
-<img width="828" alt="ss avance2" src="https://user-images.githubusercontent.com/62079019/195238998-7ef44236-c07f-443b-b0df-04cceebc8c97.png">
+Una isla en el medio del océano, la isla tiene varias palmeras y  hay una pareja acostada en la orilla de la playa. Lanchas y barcos pasan por la isla y se puede ver el sol y la luna moviéndose a través del firmamento. La escena será creada usando Unity.
+
+## Avance 2: Formas en la escena
+
+![Avance 2](Avances/avance1.png)
+
+## Avance 3: Texturas
+
+![Avance 3](Avances/avance2.png)
